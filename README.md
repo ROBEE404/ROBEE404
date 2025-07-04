@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm ROBEE</h1>
 <h3 align="center">am front end developer</h3>
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **chinese**
 <br />
 
 <h3 align="left">Connect with me:</h3>
